@@ -7,7 +7,6 @@
 		"OSL-3.0"
 	],
 	"require": {
-		"php": "~5.5.0|~5.6.0|~7.0.0|~7.1.0",
 		"faonni/module-smart-category": "^2.0",
 		"faonni/module-smart-category-configurable": "^2.0"
 	},
