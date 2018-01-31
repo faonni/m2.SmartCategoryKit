@@ -1,8 +1,10 @@
 # Magento2 Smart Category
+
 Extension is a full of Smart Categories functionality.
 
 ### Category edit page
 <img alt="Magento2 Smart Category" src="https://karliuka.github.io/m2/smart-category/category.png" style="width:100%"/>
+
 ## Install with Composer as you go
 
 1. Go to Magento2 root folder
