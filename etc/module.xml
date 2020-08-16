@@ -7,7 +7,7 @@
 -->
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
-    <module name="Faonni_SmartCategoryKit">
+    <module name="Faonni_SmartCategoryKit" setup_version="2.4.0">
         <sequence>
             <module name="Faonni_SmartCategory"/>
             <module name="Faonni_SmartCategoryConfigurable"/>
