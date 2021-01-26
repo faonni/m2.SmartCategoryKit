@@ -11,8 +11,25 @@ Extension is a full of Smart Categories functionality.
 
 2. Enter following commands to install module:
 
+     For Magento CE 2.1.x
+
     ```bash
-    composer require faonni/module-smart-category-kit
+    composer require faonni/module-smart-category-kit:2.1.*
+    ```
+     For Magento CE 2.2.x
+
+    ```bash
+    composer require faonni/module-smart-category-kit:2.2.*
+    ```
+     For Magento CE 2.3.x
+
+    ```bash
+    composer require faonni/module-smart-category-kit:2.3.*
+    ```
+     For Magento CE 2.4.x
+
+    ```bash
+    composer require faonni/module-smart-category-kit:2.4.*
     ```
    Wait while dependencies are updated.
 
