@@ -38,4 +38,3 @@ Extension is a full of Smart Categories functionality.
     ```bash
 	php bin/magento setup:upgrade
 	php bin/magento setup:static-content:deploy
-
